@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "@nuxt/ui-pro";
+
+@theme {
+  --font-sans: 'Lato', sans-serif;
+
+  --color-red-500: #ed1c24;
+}
